@@ -1,11 +1,11 @@
-# Milestone-Project---Machine-Learning- Predicting Heart Disease using Machine Learning
+# Predicting Heart Disease Using Machine Learning
 
-# Purpose of Project - To demonstrate real life example of what a data science and machine learning proof of concept might look like.
+## Python based machine learning and data science libraries in an attmept to build a machine learning model that can predict whether or not someone has heart disease based on their medical attributes.
 
-__What is classification?__
-Classification involves deciding whether a sample is part of one class or another (single-class classification). If there are multiple class options, it's referred to as multi-class classification.
-
-Since we already have a dataset, we'll approach the problem with the following machine learning modelling framework.
+### Purpose of Project - To demonstrate real life example of what a data science and machine learning proof of concept might look like.
+- The original data set came from the Cleavland data UCI Machine Learning Repository:¶
+https:/archive.ics.uci.edu/ml/datasets/heart+Disease
+- There is also a version of it available on Kaggle. https://kaggle.com/ronitf/heart-disease-uci
 
 __Exploratory data analysis (EDA) - the process of going through a dataset and finding out more about it.__
  - Model training - create model(s) to learn to predict a target variable based on other variables.
