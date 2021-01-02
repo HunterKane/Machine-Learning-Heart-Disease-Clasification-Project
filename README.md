@@ -2,10 +2,21 @@
 
 ## Python based machine learning and data science libraries in an attmept to build a machine learning model that can predict whether or not someone has heart disease based on their medical attributes.
 
+Table Of Contents
+
+
+
 ### Purpose of Project - To demonstrate real life example of what a data science and machine learning proof of concept might look like.
-- The original data set came from the Cleavland data UCI Machine Learning Repository:¶
-https:/archive.ics.uci.edu/ml/datasets/heart+Disease
-- There is also a version of it available on Kaggle. https://kaggle.com/ronitf/heart-disease-uci
+- The original data set came from the Cleavland data UCI Machine Learning Repository:[link](https:/archive.ics.uci.edu/ml/datasets/heart+Disease)
+- There is also a version of it available on Kaggle. [link](https://kaggle.com/ronitf/heart-disease-uci)
+
+
+__Installations__
+
+- Pandas for data analysis.
+- NumPy for numerical operations.
+- Matplotlib/seaborn for plotting or data visualization.
+- Scikit-Learn for machine learning modelling and evaluation.
 
 __Exploratory data analysis (EDA) - the process of going through a dataset and finding out more about it.__
  - Model training - create model(s) to learn to predict a target variable based on other variables.
@@ -91,8 +102,5 @@ Preparing the tools
 At the start of any project, it's custom to see the required libraries imported in a big chunk like you can see below.
 However, in practice, your projects may import libraries as you go. After you've spent a couple of hours working on your problem, you'll probably want to do some tidying up. This is where you may want to consolidate every library you've used at the top of your notebook (like the cell below).**
 
-The libraries you use will differ from project to project. But there are a few which will you'll likely take advantage of during almost every structured data project.
-pandas for data analysis.
-NumPy for numerical operations.
-Matplotlib/seaborn for plotting or data visualization.
-Scikit-Learn for machine learning modelling and evaluation.
+
+
