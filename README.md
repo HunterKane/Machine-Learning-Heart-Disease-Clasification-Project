@@ -30,9 +30,7 @@ __Exploratory data analysis (EDA) - the process of going through a dataset and f
 
 __1. Problem Definition__
 In our case, the problem we will be exploring is binary classification (a sample can only be one of two things).
-This is because we're going to be using a number of differnet features (pieces of information) about a person to predict whether they have heart disease or not.
-In a statement,
-Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+This is because we're going to be using a number of differnet features (pieces of information) about a person to predict whether they have heart disease or not.In a statement,given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
 __2. Data__
 What you'll want to do here is dive into the data your problem definition is based on. This may involve, sourcing, defining different parameters, talking to experts about it and finding out what you should expect.
