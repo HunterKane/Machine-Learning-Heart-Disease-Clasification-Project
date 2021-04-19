@@ -2,9 +2,6 @@
 
 ## Python based machine learning and data science libraries in an attempt to build a machine learning model that can predict whether or not someone has heart disease based on their medical attributes.
 
-Table Of Contents
-
-
 
 ### Purpose of Project - To demonstrate real life example of what a data science and machine learning proof of concept might look like.
 - The original data set came from the Cleveland data UCI Machine Learning Repository:[link](https:/archive.ics.uci.edu/ml/datasets/heart+Disease)
@@ -17,6 +14,7 @@ __Installations__
 - NumPy for numerical operations.
 - Matplotlib/seaborn for plotting or data visualization.
 - Scikit-Learn for machine learning modelling and evaluation.
+
 
 __Exploratory data analysis (EDA) - the process of going through a dataset and finding out more about it.__
  - Model training - create model(s) to learn to predict a target variable based on other variables.
@@ -51,6 +49,7 @@ However, due to the nature of experimentation, the evaluation metric may change 
 __4. Features__
 Features are different parts of the data. During this step, you'll want to start finding out what you can about the data.
 One of the most common ways to do this, is to create a data dictionary.
+
 
 __Heart Disease Data Dictionary__
 A data dictionary describes the data you're dealing with. Not all datasets come with them so this is where you may have to do your research or ask a subject matter expert (someone who knows about the data) for more.
@@ -94,6 +93,8 @@ The following are the features we'll use to predict our target variable (heart d
 - 7: reversable defect: no proper blood movement when exercising
 - target - have disease or not (1=yes, 0=no) (= the predicted attribute)
 
+
+__PPI Notice__
 **Note: No personal identifiable information (PPI) can be found in the dataset.
 It's a good idea to save these to a Python dictionary or in an external file, so we can look at them later without coming back here.
 Preparing the tools
